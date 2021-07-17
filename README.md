@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 23 Years old Java Developer  ✨
+👨‍💻 python Developer  ✨
 
 <!--
 **wjhgg/wjhgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
