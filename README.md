@@ -4,4 +4,4 @@
 
 ### [🌐 Website](https://wu-clan.github.io/homepage/) · [💬 Dicsord](https://discord.gg/yNN3wTbVAC)
 
-![Repos I contributed to](https://github-contrib-stats.vercel.app/wu-clan/contributed.svg?max_repos=30)
+![Repos I contributed to](https://github-contrib-stats.vercel.app/wu-clan/contributed.svg?max_repos=18)
