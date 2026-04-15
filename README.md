@@ -1,3 +1,3 @@
 ## Hello! I'm wu-clan 👋
 
-I'm a test development engineer who mainly uses Python and loves open source.
+I'm a backend development engineer, mainly using Python and Go, and love open source!
